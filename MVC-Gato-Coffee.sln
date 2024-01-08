@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC-Gato-Coffee", "MVC-Gato-Coffee\MVC-Gato-Coffee.csproj", "{A7DB73AF-E97E-4D4B-9036-FF791762A3DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7DB73AF-E97E-4D4B-9036-FF791762A3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DB73AF-E97E-4D4B-9036-FF791762A3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DB73AF-E97E-4D4B-9036-FF791762A3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DB73AF-E97E-4D4B-9036-FF791762A3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3527BAC-06BA-45C9-A8ED-92C698A67309}
+	EndGlobalSection
+EndGlobal

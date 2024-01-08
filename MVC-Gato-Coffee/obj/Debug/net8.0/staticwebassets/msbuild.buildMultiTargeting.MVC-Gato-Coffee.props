@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVC-Gato-Coffee.props" />
+</Project>
